@@ -28,7 +28,7 @@ Jan 2020
 
 Created a website that calculated one's carbon footprint.
 
-Unofortunaltey you won't be able to see the code of my projects because my repositories are private. :wink:
+Unfortunately you won't be able to see the code of my projects because my repositories are private. :wink:
 
 ### Contact me:
 
